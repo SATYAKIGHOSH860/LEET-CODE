@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0509-fibonacci-number) |
 | [1017-convert-to-base-2](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/1017-convert-to-base-2) |
 ## Two Pointers
 |  |
@@ -43,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
