@@ -13,4 +13,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0125-valid-palindrome) |
+| [3813-vowel-consonant-score](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/3813-vowel-consonant-score) |
+## Simulation
+|  |
+| ------- |
+| [3813-vowel-consonant-score](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
