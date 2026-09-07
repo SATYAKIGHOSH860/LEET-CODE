@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0509-fibonacci-number) |
 | [1017-convert-to-base-2](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/1017-convert-to-base-2) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -62,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0268-missing-number) |
 ## Queue
 |  |
 | ------- |
@@ -75,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
