@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0204-count-primes](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0268-missing-number) |
 ## Enumeration
