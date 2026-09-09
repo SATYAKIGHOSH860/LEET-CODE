@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0268-missing-number) |
 | [1572-matrix-diagonal-sum](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/1572-matrix-diagonal-sum) |
