@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0724-find-pivot-index) |
 | [1572-matrix-diagonal-sum](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/1572-matrix-diagonal-sum) |
 ## Enumeration
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/1572-matrix-diagonal-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/SATYAKIGHOSH860/LEET-CODE/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
